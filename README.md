@@ -16,7 +16,7 @@ This project involves the analysis and exploration of a healthcare dataset to de
 - Jupyter Notebook
 - Required Python packages (numpy, pandas, matplotlib, seaborn, plotly, numerize)
 
-##Data Preprocessing
+## Data Preprocessing
 
 Load the dataset.
 Remove unwanted white spaces from the dataset.
@@ -40,4 +40,5 @@ Run the cells sequentially to execute the code.
 Follow the prompts to input a medical condition and receive recommendations.
 
 # Youtube Reference
+
 ## Youtube Link : 
